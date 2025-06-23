@@ -207,7 +207,7 @@ function App() {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-6xl font-bold text-white mb-4 drop-shadow-2xl">
-            T<span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-blue-400">Sun</span>
+            T<span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-blue-400">Sun Studio</span>
           </h1>
           <p className="text-xl text-white/80 font-light">Premium TikTok Video Downloader</p>
         </div>
@@ -242,7 +242,7 @@ function App() {
                 ) : (
                   <div className="flex items-center space-x-2">
                     <Video className="w-5 h-5" />
-                    <span>Get Video Info</span>
+                    <span>Download</span>
                   </div>
                 )}
               </button>
@@ -428,13 +428,13 @@ function App() {
             </div>
           </div>
           <p className="text-white/60 text-sm mb-2">
-            Designed by <span className="text-pink-300">°【〆༯𝙎ค૯𝙀𝘿】✘</span> & <span className="text-blue-300">【.ISHU.】</span>
+            Designed by <span className="text-pink-300">°【〆༯𝙎ค૯𝙀𝘿】✘【.ISHU.】</span>
           </p>
           <p className="text-white/40 text-xs">
             Won This World - If You Don't Then Go And Die
           </p>
           <p className="text-white/40 text-xs mt-1">
-            By -- 〆༯𝙎ค૯𝙀𝘿】✘🌹
+            By -- 〆༯𝙎ค૯𝙀𝘿✘🌹
           </p>
         </footer>
       </div>
