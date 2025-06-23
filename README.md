@@ -20,7 +20,7 @@
 
 ## 📸 UI Preview
 
-![UI Preview](https://i.ibb.co/F47BfcCb/image.png)
+![UI Preview](https://i.postimg.cc/R0BkzG73/image.png)
 
 ---
 
