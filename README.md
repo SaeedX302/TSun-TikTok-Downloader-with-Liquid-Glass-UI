@@ -31,8 +31,44 @@
 
 ### 🛠️ Local Setup
 
-```bash
-git clone https://github.com/SaeedX302/TSun-TikTok-Downloader-with-Liquid-Glass-UI.git
-cd TSun-TikTok-Downloader-with-Liquid-Glass-UI
-npm install
-npm run dev
+    git clone https://github.com/SaeedX302/TSun-TikTok-Downloader-with-Liquid-Glass-UI.git
+    cd TSun-TikTok-Downloader-with-Liquid-Glass-UI
+    npm install
+    npm run dev
+
+### 🧩 Built With
+  HTML / CSS / JavaScript
+
+  Liquid Glass UI Styling
+
+  TikTok API Integration (via douyin.wtf or tikwm)
+
+Vercel Hosting
+
+## 📁 Folder Structure
+   bash
+   Copy
+   Edit
+## 📦TSun-TikTok-Downloader
+    ┣ 📂assets
+    ┣ 📂components
+    ┣ 📜index.html
+    ┣ 📜style.css
+    ┣ 📜main.js
+## 📜 License
+    MIT License © 2025 SaeedX302
+
+## 🌟 Credits
+  Special thanks to:
+
+## 🧠 TikWM API for backend support
+
+## 🎨 UI inspired by futuristic glassmorphism
+
+## 🔥 Coded with 💖 by SaeedX302
+
+## 🤝 Contribute
+   Pull requests are welcome!
+   Feel free to fork the repo, suggest new features, or fix bugs 😄
+
+## 📲 Connect with Me
